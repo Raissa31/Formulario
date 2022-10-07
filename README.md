@@ -36,6 +36,22 @@
 <label>endereço</label>
 <input type="text" id="endereço">
 
+<div>
+<textarea cols="25px" rows="30px"></testarea>
+
+</div>
+<label for="circulo-e-mail">E-MAIL</label>
+<input type="radio" id="circulo-email"
+<br>
+<label for="caixa-wpp"</label>
+<input type="checkbox" id ="caixa-wpp">
+
+
+
+
+
+
+
 <input type="submit">
 
 </form>
