@@ -54,9 +54,9 @@
 </div>
 <label for="circulo-e-mail">E-MAIL</label>
 <input type="radio" id="circulo-email"
-<br>
+<br> <br>
 <label for="caixa-wpp"</label>
-<input type="checkbox" id ="caixa-wpp">
+<input type="checkbox" id="caixa-wpp">
 
 
 <input type="submit">
