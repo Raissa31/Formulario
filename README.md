@@ -22,19 +22,31 @@
 
 
 <label>Idade</label>
-<input type="text" id="Idade">
+<input type="number" id="Idade">
 
-<label>Idade</label>
-<input type="text" id="Idade">
+<label>Senha</label>
+<input type="password" id="Idade">
 
 <label>telefone</label>
-<input type="text" id="telefone">
+<input type="tel" id="telefone">
 
 <label>e-mail</label>
 <input type="text" id="e-mail">
 
 <label>endereço</label>
 <input type="text" id="endereço">
+
+label>Data e hora</label>
+<input type="datetime" id="data e hora">
+
+
+label>Pesquisar</label>
+<input type="search" id="data e hora">
+
+
+
+<label>data de nasciemnto</label>
+<input type="number" id="data de nascimento"
 
 <div>
 <textarea cols="25px" rows="30px"></testarea>
@@ -45,11 +57,6 @@
 <br>
 <label for="caixa-wpp"</label>
 <input type="checkbox" id ="caixa-wpp">
-
-
-
-
-
 
 
 <input type="submit">
