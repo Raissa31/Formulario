@@ -36,11 +36,11 @@
 <label>endereço</label>
 <input type="text" id="endereço">
 
-label>Data e hora</label>
+<label>Data e hora</label>
 <input type="datetime" id="data e hora">
 
 
-label>Pesquisar</label>
+<label>Pesquisar</label>
 <input type="search" id="data e hora">
 
 
